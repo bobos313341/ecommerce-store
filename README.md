@@ -1,1 +1,1 @@
-# ecommerce-store
+<!-- README.md placeholder -->
